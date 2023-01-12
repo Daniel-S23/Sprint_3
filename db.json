@@ -1,0 +1,112 @@
+{
+  "Properties": [
+    {
+      "id": "1",
+      "img": "images/propiedades/Property Image-5.png",
+      "nombre": "Atlántico Medio",
+      "ubicacion": "Nueva York",
+      "area": " 2.400m2",
+      "Nhabitaciones": 2,
+      "Nbaños": 4,
+      "Tipo": "HOUSE",
+      "disponibilidad": "FOR SALE",
+      "precio": 32000000,
+      "parqueadero": "si",
+      "propietario": {
+        "nombreP": "Hellen mattis",
+        "tiempo": "4 mounths ago"
+      },
+      "descripcion": "These exquisite Penthouse Residences have been carefully appointed and feature stunning 360 degree city skyline views – the epitome of residential sophistication and elegance New York City."
+    },
+    {
+      "id": "2",
+      "img": "images/propiedades/Property Image-4.png",
+      "nombre": "Atlántico Medio",
+      "ubicacion": "Pensilvania",
+      "area": "3.664M2",
+      "Nhabitaciones": 4,
+      "Nbaños": 2,
+      "Tipo": "TOWN",
+      "disponibilidad": "FOR SALE",
+      "precio": 59000000,
+      "parqueadero": "no",
+      "propietario": {
+        "nombreP": "Hellen mattis",
+        "tiempo": "6 mounths ago"
+      },
+      "descripcion": "concrete in sight, and stucco simple materials achieving harmony and beauty in Design."
+    },
+    {
+      "id": "3",
+      "img": "images/propiedades/Property Image-3.png",
+      "nombre": "Atlántico Medio",
+      "ubicacion": "Nueva Jersey",
+      "area": " 2.400m2",
+      "Nhabitaciones": 2,
+      "Nbaños": 1,
+      "Tipo": "APARTAMENT",
+      "disponibilidad": "RENT",
+      "precio": 47500000,
+      "parqueadero": "no",
+      "propietario": {
+        "nombreP": "Hellen mattis",
+        "tiempo": "12 mounths ago"
+      },
+      "descripcion": "unifying spaces to make it more open, rescuing ceiling details to achieve an industrial style. Furniture made to measure and personalized."
+    },
+    {
+      "id": "4",
+      "img": "images/propiedades/Property Image-2.png",
+      "nombre": "Centro Sur Oriental",
+      "ubicacion": "Tennessee",
+      "area": " 2000m2",
+      "Nhabitaciones": 5,
+      "Nbaños": 3,
+      "Tipo": "HOUSE",
+      "disponibilidad": "FOR SALE",
+      "precio": 85000000,
+      "parqueadero": "si",
+      "propietario": {
+        "nombreP": "Hellen mattis",
+        "tiempo": "2 mounths ago"
+      },
+      "descripcion": "social area, through a gallery that distributes to two auxiliary bedrooms each with its private bathroom, we reach a living room with bedrooms and a main bedroom with a dressing room and private bathroom."
+    },
+    {
+      "id": "5",
+      "img": "images/propiedades/Property Image-1.png",
+      "nombre": "Atlántico Sur",
+      "ubicacion": "Georgia",
+      "area": "1200m2",
+      "Nhabitaciones": 1,
+      "Nbaños": 1,
+      "Tipo": "APARTAMENT",
+      "disponibilidad": "RENT",
+      "precio": 28000000,
+      "parqueadero": "si",
+      "propietario": {
+        "nombreP": "Hellen mattis",
+        "tiempo": "5 mounths ago"
+      },
+      "descripcion": "Interior decoration, painting, lighting, custom furniture and optimization of existing furniture. New apartment project."
+    },
+    {
+      "id": "6",
+      "img": "images/propiedades/Property Image.png",
+      "nombre": "Centro Norte Oriental",
+      "ubicacion": " Illinois",
+      "area": " 1602m2",
+      "Nhabitaciones": 3,
+      "Nbaños": 2,
+      "Tipo": "APARTAMENT",
+      "disponibilidad": "FOR SALE",
+      "precio": 97500000,
+      "parqueadero": "no",
+      "propietario": {
+        "nombreP": "Hellen mattis",
+        "tiempo": "8 mounths ago"
+      },
+      "descripcion": "Residents have access to old-school services, such as a doorman lobby, along with new-school conveniences, such as complimentary WiFi, dining, and more."
+    }
+  ]
+}
